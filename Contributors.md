@@ -46,7 +46,7 @@
 - [Amit Kumar](https://github.com/amitthecoder)
 - [almostJohn](https://github.com/almostJohn)
 - [Abdelrahman Elsayed](https://github.com/onepercentgold)
-- [Faisal Sayed](https://github.com/sayyedfaixal)
+- [Mohammad Faisal Sayed](https://github.com/sayyedfaixal)
 - [Gabriel Moraes] (https://github.com/gabrielm33)
 - [Kiro Adel] (https://github.com/Noobie7612)
 - [khunsai06](https://github.com/khunsai06)
